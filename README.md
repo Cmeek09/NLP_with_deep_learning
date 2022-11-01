@@ -1,5 +1,5 @@
 # cs39aa_project
-39AA project
+Machine Learning project
 
 # General information
 
