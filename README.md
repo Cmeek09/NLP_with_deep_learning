@@ -1,6 +1,4 @@
-#project
-
-Machine Learning project
+# Machine Learning project
 
 # General information
 
