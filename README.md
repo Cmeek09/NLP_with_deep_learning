@@ -1,4 +1,4 @@
-# cs39aa_project
+#project
 Machine Learning project
 
 # General information
